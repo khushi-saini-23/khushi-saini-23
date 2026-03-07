@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Khushi Saini
-**A passionate Computer Science || GLA University || from India**
+**A passionate Computer Science Student || GLA University || from India**
 
 Email Me 👉 ✉️ **khushisainimtr@gmail.com** . 😊😊
 
