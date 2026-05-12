@@ -24,6 +24,9 @@ Email Me 👉 ✉️ **khushisainimtr@gmail.com** . 😊😊
 ![](https://nirzak-streak-stats.vercel.app/?user=khushi-saini-23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-saini-23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# Leetcode:
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=khushi23-_&theme=dark)](https://leetcode.com/khushi23-_)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khushi-saini-23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
