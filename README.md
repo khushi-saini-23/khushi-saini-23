@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Khushi%20Saini&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Khushi%20Saini&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descAlign=50&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+elegant+software+solutions;Open+Source+Contributor+%40+GirlScript+SoC;Flask+%7C+Python+%7C+Java+%7C+DSA+Practitioner;Consistent+Learner+%7C+LeetCode+50-Day+Streak" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+elegant+software+solutions;Open+Source+Contributor+%40+GirlScript+SoC;Flask+%7C+Python+%7C+Java+%7C+DSA+Practitioner;Exploring+AI+%2F+ML+%7C+Google+AI+Studio;Consistent+Learner+%7C+LeetCode+50-Day+Streak" alt="Typing SVG" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ const khushi: Engineer = {
   university  : "GLA University, Mathura",
   degree      : "B.Tech in Computer Science & Engineering",
   gradYear    : 2029,
-  focus       : ["Full Stack Development", "Data Structures & Algorithms", "Cloud Deployment"],
+  focus       : ["AI / ML Exploration", "Data Structures & Algorithms", "Cloud Deployment"],
   currentRole : "Campus Ambassador & Core Member @ CodeBusters Club",
   community   : "GirlScript Summer of Code 2025–2026 Contributor",
   languages   : ["Java", "Python", "SQL", "C"],
@@ -58,9 +58,9 @@ const khushi: Engineer = {
 };
 ```
 
-Detail-oriented Computer Science and Engineering student with a strong foundation in software development, data structures, and object-oriented programming. Experienced in open-source collaboration, architecting web applications, and deploying production-grade front-end and back-end instances on serverless cloud platforms. Passionate about building tools that solve real problems and contributing to the developer community through code and mentorship.
+Detail-oriented Computer Science and Engineering student with a strong foundation in software development, data structures, and object-oriented programming. Experienced in open-source collaboration, building web applications, and deploying production-grade instances on serverless cloud platforms. Currently exploring AI and Machine Learning — from Google AI Studio integrations to intelligent tool construction. Passionate about building tools that solve real problems and contributing to the developer community through code and mentorship.
 
-**Open To:** Software Engineering Internships · Open Source Collaboration · Research Opportunities · Hackathons · Campus Tech Initiatives
+**Open To:** AI/ML Research Opportunities · Software Engineering Internships · Open Source Collaboration · Hackathons · Campus Tech Initiatives
 
 ---
 
@@ -72,8 +72,8 @@ Detail-oriented Computer Science and Engineering student with a strong foundatio
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=8" /><br/>
-  <sub><b>Frontend</b></sub>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=8" /><br/>
+  <sub><b>AI / ML (Learning)</b></sub>
 </p>
 
 <p align="center">
@@ -94,10 +94,10 @@ Detail-oriented Computer Science and Engineering student with a strong foundatio
 |--------|-------------|---------|
 | **Data Structures & Algorithms** | ████████░░ Advanced | Arrays, Linked Lists, Trees, Graphs, Dynamic Programming |
 | **Object-Oriented Programming** | █████████░ Advanced | Encapsulation, Inheritance, Polymorphism, Abstraction — Java |
-| **Web Application Development** | ███████░░░ Intermediate | Flask microframework, REST APIs, serverless deployments |
+| **AI / ML Fundamentals** | █████░░░░░ Learning | Google AI Studio, speech model APIs, intelligent tool construction |
+| **Python for AI/ML** | ██████░░░░ Developing | NumPy, Pandas, scikit-learn exploration; GUVI certified |
 | **Cloud Deployment** | ███████░░░ Intermediate | Vercel, Netlify, Azure (DevDay hands-on) |
 | **Open Source Contribution** | ████████░░ Proficient | Bug identification, patch deployment, PR workflows, Git branching |
-| **AI Tool Integration** | ██████░░░░ Developing | Google AI Studio, speech models, GUVI-certified web tool construction |
 
 ---
 
@@ -263,8 +263,42 @@ Organized technical community outreach initiatives and coding events reaching 10
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khushi-saini-23/khushi-saini-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushi-saini-23/khushi-saini-23/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushi-saini-23/khushi-saini-23/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/khushi-saini-23/khushi-saini-23/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
+
+<!-- 
+  ══════════════════════════════════════════════════════════
+  SNAKE SETUP: Create this file in your profile repo:
+  .github/workflows/snake.yml
+  ══════════════════════════════════════════════════════════
+  
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: khushi-saini-23
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ══════════════════════════════════════════════════════════
+-->
 
 ---
 
@@ -274,26 +308,26 @@ Organized technical community outreach initiatives and coding events reaching 10
 # khushi-saini-23 :: current_focus.yml
 
 learning:
+  - AI / ML fundamentals — supervised learning, model evaluation, feature engineering
+  - Python for data science — NumPy, Pandas, scikit-learn
+  - Google AI Studio & Gemini API integrations
   - Advanced DSA patterns — Trees, Graphs, Dynamic Programming
-  - System Design fundamentals
-  - REST API design with Flask and FastAPI
-  - Cloud-native deployment on Azure and Vercel
 
 building:
-  - Resume analysis and career tooling (ATS Analyzer v2)
+  - AI-powered resume analysis tooling (ATS Analyzer v2 with ML scoring)
   - Open source contributions via GirlScript SoC
   - Competitive programming consistency on LeetCode
 
 exploring:
-  - Google AI Studio integrations
-  - Serverless architecture patterns
+  - Large Language Model APIs and prompt engineering
+  - Cloud-native AI deployment on Azure and Vercel
   - Developer community leadership and technical education
 
 open_to:
-  - Software Engineering Internships (2026 Summer / Fall)
+  - AI / ML Research Internships (2026 Summer / Fall)
+  - Software Engineering Internships
   - Open Source Collaboration
   - Campus Hackathon Teams
-  - Technical Mentorship Opportunities
 ```
 
 ---
