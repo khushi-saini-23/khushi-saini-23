@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+elegant+software+solutions;Open+Source+Contributor+%40+GirlScript+Summer of Code;Flask+%7C+Python+%7C+Java+%7C+DSA+Practitioner;Exploring+AI+%2F+ML+%7C+Google+AI+Studio;Consistent+Learner+%7C+LeetCode+50-Day+Streak" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+elegant+software+solutions;Open+Source+Contributor+%40+GirlScript+SC;Flask+%7C+Python+%7C+Java+%7C+DSA+Practitioner;Exploring+AI+%2F+ML+%7C+Google+AI+Studio;Consistent+Learner+%7C+LeetCode+50-Day+Streak" alt="Typing SVG" />
   </a>
 </p>
 
@@ -261,6 +261,8 @@ Organized technical community outreach initiatives and coding events reaching 10
 ---
 
 ## ◈ Contribution Snake
+
+![](https://raw.githubusercontent.com/khushi-saini-23/khushi-saini-23/output/github-contribution-grid-snake.svg)
 name: Generate Snake
 
 on:
