@@ -247,7 +247,9 @@ Organized technical community outreach initiatives and coding events reaching 10
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushi-saini-23&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khushi-saini-23&theme=onedark&column=5" alt="khushi-saini-23 GitHub Trophies" />
+  </a>
 </p>
 
 ---
