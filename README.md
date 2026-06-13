@@ -245,14 +245,11 @@ Organized technical community outreach initiatives and coding events reaching 10
 ---
 
 ## ◈ GitHub Trophies
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=khushi-saini-23&theme=onedark&column=5" alt="khushi-saini-23 GitHub Trophies" />
   </a>
 </p>
-
----
 
 ## ◈ Contribution Activity
 
