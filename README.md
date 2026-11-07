@@ -327,3 +327,8 @@ open_to:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
 </p>
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/khushi-saini-23/khushi-saini-23/output/tulkun/tulkun.gif" width="640" alt="khushi-saini-23's git-tulkun" />
+  </a>
+</p>
